@@ -17,5 +17,4 @@
 4. Coloque em uma forma *(caso queira, passe um fiozinho de óleo na forma para as barrinhas não grudarem)*.
 5. Leve ao forno em torno de 15 - 20 minutos á 255 graus.
 
-![Barrinhas de cereal]
-(https://github.com/juliodias/receitas/tree/master/images/barrinhas_de_cereal.jpg)
+![Barrinhas de cereal](../images/barrinhas_de_cereal.jpg)
